@@ -65,7 +65,7 @@ function contact() {
         <div className="py-5 lg:w-1/4">
           <img
             className="rounded-full border-2 border-gray-500 opacity-0 transition-opacity duration-2000 ease-in-out"
-            src="/carlos2.png"
+            src="https://carlosanchayhua.s3.us-west-2.amazonaws.com/carlos2.PNG"
             alt="Myself"
             onLoad={(e) => e.currentTarget.classList.remove("opacity-0")}
           />

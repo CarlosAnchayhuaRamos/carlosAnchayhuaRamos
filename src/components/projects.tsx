@@ -5,31 +5,31 @@ function projects() {
     {
       title: "Notifications-AWS-Twilio",
       description: "A module of notification system for your projects.",
-      image: "../../public/1.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/1.png",
       url: "https://github.com/CarlosAnchayhuaRamos/Notifications-AWS-Twilio",
     },
     {
       title: "Transactions with Nest",
       description: "A project with Kafka, GraphQL and NestJs.",
-      image: "../../public/nest.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/nest.png",
       url: "https://github.com/CarlosAnchayhuaRamos/app-nodejs-codechallenge",
     },
     {
       title: "Tokenización de Tarjetas",
       description: "A project with rds and elasticache",
-      image: "../../public/tarjeta.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/tarjeta.png",
       url: "https://github.com/CarlosAnchayhuaRamos/tokenization-rds-elasticache",
     },
     {
       title: "Star Wars API",
       description: "A website of Star Wars.",
-      image: "../../public/sw.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/sw.png",
       url: "https://github.com/CarlosAnchayhuaRamos/sw-api",
     },
     {
       title: "Mortal Kombat",
       description: "A server for your projects.",
-      image: "../../public/Mortal.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/Mortal.png",
       url: "https://github.com/CarlosAnchayhuaRamos/mortal_kombat",
     },
   ];

@@ -6,21 +6,22 @@ function blog() {
       title: "Can We Unify the Visual Identity of Serverless Computing? ☁️",
       description:
         "Proposed universal logo for the serverless concept, which has multiple representations by each cloud provider.",
-      image: "../../public/images/6.png",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/6.png",
       url: "https://www.linkedin.com/posts/carlosanchayhua_serverless-cloudcomputing-design-activity-7284412067887886337-JqtQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB_06fYB2VJYV_EDfRcT9INfflbc7JlyIUw",
     },
     {
       title: "🌐 Serverless: Transforming Cloud Computing ☁️",
       description:
         "Learn how define serverless a tool to build a modern web application.",
-      image: "../../public/what_is_serverless.png",
+      image:
+        "https://carlosanchayhua.s3.us-west-2.amazonaws.com/what_is_serverless.png",
       url: "https://www.linkedin.com/posts/carlosanchayhua_serverless-cloudcomputing-techinnovation-activity-7279639278660341760-OVoK/?rcm=ACoAAB_06fYB2VJYV_EDfRcT9INfflbc7JlyIUw",
     },
     {
       title: "My passion for olives <3",
       description:
         "Learn how to use Trade Map and Fairs to find Peruvian olives.",
-      image: "../../public/olives.webp",
+      image: "https://carlosanchayhua.s3.us-west-2.amazonaws.com/olives.webp",
       url: "https://cinternacionaluni.blogspot.com/2021/05/informacion-de-exportacion-de-aceitunas.html",
     },
   ];
