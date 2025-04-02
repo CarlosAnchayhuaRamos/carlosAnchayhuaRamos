@@ -20,7 +20,11 @@ const nav: React.FC<NavProps> = ({ scrollToSection, sections }) => {
   return (
     <nav className="flex items-center justify-between p-5 lg:flex-row text-cyan-50 bg-gray-800 border-b-2 border-gray-700">
       <div className="flex items-center space-x-4">
-        <a href="https://react.dev" target="_blank">
+        <a
+          className="transition hover:scale-120 duration-500"
+          href="https://react.dev"
+          target="_blank"
+        >
           <img
             src={sunglasses}
             className="logo react w-14 border-2 border-gray-500 rounded-full bg-white"

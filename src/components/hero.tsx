@@ -25,7 +25,7 @@ function hero() {
 
       <div className="flex justify-center py-5 lg:w-2/3">
         <img
-          className="rounded-full border-2 border-gray-500 opacity-0 transition-opacity duration-2000 ease-in-out"
+          className="rounded-full border-2 border-gray-500 opacity-0 transition hover:scale-105 duration-1000 ease-in-out"
           src="https://carlosanchayhua.s3.us-west-2.amazonaws.com/carlos2.PNG"
           alt="Myself"
           onLoad={(e) => e.currentTarget.classList.remove("opacity-0")}

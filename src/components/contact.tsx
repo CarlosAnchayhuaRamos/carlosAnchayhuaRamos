@@ -9,7 +9,7 @@ function contact() {
   return (
     <section id="contact">
       <div className="p-5 lg:flex lg:justify-around items-center bg-gray-700 text-white">
-        <div className="lg:ml-5">
+        <div className="lg:ml-5 lg:mb-10">
           <h1 className="text-5xl lg:text-6xl m-5 lg:m-5 font-bold">
             contact.
           </h1>
@@ -62,9 +62,9 @@ function contact() {
           </div>
         </div>
 
-        <div className="py-5 lg:w-1/4">
+        <div className="py-5 lg:w-1/4  transition hover:scale-120 duration-500">
           <img
-            className="rounded-full border-2 border-gray-500 opacity-0 transition-opacity duration-2000 ease-in-out"
+            className="rounded-full border-2 border-gray-500 opacity-0 transition-opacity duration-2000 ease-in-out lg:my-10"
             src="https://carlosanchayhua.s3.us-west-2.amazonaws.com/carlos2.PNG"
             alt="Myself"
             onLoad={(e) => e.currentTarget.classList.remove("opacity-0")}
